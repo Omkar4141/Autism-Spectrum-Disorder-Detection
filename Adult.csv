@@ -1,0 +1,705 @@
+A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,contry_of_res,Class/ASD
+1,1,1,1,0,0,1,1,0,0,26,f,United States,NO
+1,1,0,1,0,0,0,1,0,1,24,m,Brazil,NO
+1,1,0,1,1,0,1,1,1,1,27,m,Spain,YES
+1,1,0,1,0,0,1,1,0,1,35,f,United States,NO
+1,0,0,0,0,0,0,1,0,0,40,f,Egypt,NO
+1,1,1,1,1,0,1,1,1,1,36,m,United States,YES
+0,1,0,0,0,0,0,1,0,0,17,f,United States,NO
+1,1,1,1,0,0,0,0,1,0,64,m,New Zealand,NO
+1,1,0,0,1,0,0,1,1,1,29,m,United States,NO
+1,1,1,1,0,1,1,1,1,0,17,m,Bahamas,YES
+1,1,1,1,1,1,1,1,1,1,33,m,United States,YES
+0,1,0,1,1,1,1,0,0,1,18,f,Burundi,NO
+0,1,1,1,1,1,0,0,1,0,17,f,Bahamas,NO
+1,0,0,0,0,0,1,1,0,1,17,m,Austria,NO
+1,0,0,0,0,0,1,1,0,1,17,f,Argentina,NO
+1,1,0,1,1,0,0,1,0,1,18,m,New Zealand,NO
+1,0,0,0,0,0,1,1,1,1,31,m,Jordan,NO
+0,0,0,0,0,0,0,1,0,1,30,m,Ireland,NO
+0,0,1,0,1,1,0,0,0,0,35,f,United Arab Emirates,NO
+0,0,0,0,0,0,1,1,0,1,34,m,United Arab Emirates,NO
+0,1,1,1,0,0,0,0,0,0,38,m,United Arab Emirates,NO
+0,0,0,0,0,0,0,0,0,0,27,f,United Arab Emirates,NO
+0,0,0,1,0,0,1,1,1,1,27,m,Afghanistan,NO
+0,0,0,0,0,0,0,1,0,1,42,m,United Arab Emirates,NO
+1,1,1,1,0,0,0,1,0,0,43,m,Lebanon,NO
+0,1,1,0,0,0,0,1,0,0,24,f,Afghanistan,NO
+0,0,0,0,0,0,0,1,0,0,40,m,United Arab Emirates,NO
+0,0,0,0,0,0,0,1,0,0,40,m,Afghanistan,NO
+0,0,0,0,0,0,0,1,0,0,48,m,New Zealand,NO
+0,1,1,0,0,0,0,0,1,1,31,m,United Kingdom,NO
+0,0,0,0,0,0,0,0,0,0,18,m,United Kingdom,NO
+1,0,0,1,1,1,1,1,0,1,37,f,United States,YES
+1,1,0,0,0,0,1,0,0,1,55,f,New Zealand,NO
+1,1,1,1,1,1,1,1,1,1,18,f,South Africa,YES
+1,1,1,1,1,1,1,1,1,1,18,f,South Africa,YES
+0,0,1,0,0,0,0,0,0,0,55,m,New Zealand,NO
+0,1,1,0,1,0,0,1,1,1,50,m,United Arab Emirates,NO
+1,0,1,1,1,1,0,0,1,0,34,f,New Zealand,NO
+1,0,0,1,1,1,1,0,1,1,53,f,New Zealand,YES
+1,0,1,1,0,1,1,1,1,1,35,f,United States,YES
+1,0,1,1,1,0,1,1,0,1,20,f,Italy,YES
+0,0,0,0,1,1,0,0,0,0,28,f,Pakistan,NO
+0,0,1,1,0,0,0,0,0,1,34,f,Egypt,NO
+0,1,1,1,0,0,0,0,0,1,36,f,United States,NO
+1,1,1,1,1,1,0,1,0,1,27,f,New Zealand,YES
+1,0,1,1,1,1,0,1,1,0,53,f,New Zealand,YES
+1,1,1,1,0,1,0,0,0,0,24,f,New Zealand,NO
+0,0,1,1,1,0,1,0,0,0,24,m,New Zealand,NO
+0,1,1,0,0,1,0,0,0,0,55,m,New Zealand,NO
+1,1,0,0,0,1,1,1,0,1,30,f,Bangladesh,NO
+1,0,0,1,0,0,0,1,0,0,21,f,Chile,NO
+1,1,1,1,1,1,1,1,1,1,35,f,France,YES
+1,0,0,0,0,0,0,0,0,0,383,f,New Zealand,NO
+1,0,1,1,1,1,1,1,0,1,21,m,Brazil,YES
+1,1,1,1,1,1,1,1,1,1,47,m,United States,YES
+1,1,1,1,1,1,0,1,1,1,30,f,China,YES
+1,0,1,1,1,1,0,1,1,1,28,f,Australia,YES
+1,1,1,1,1,1,0,1,1,1,43,f,Australia,YES
+1,0,0,0,1,0,0,1,0,0,32,f,Canada,NO
+1,1,1,1,0,0,0,1,0,0,44,f,Australia,NO
+1,0,1,1,1,1,1,1,0,1,20,f,Canada,YES
+1,0,1,1,0,1,1,1,0,1,20,f,Canada,YES
+0,0,0,0,0,0,0,0,0,0,,m,Saudi Arabia,NO
+1,0,0,1,1,0,0,1,1,0,19,m,Australia,NO
+1,1,1,1,1,1,1,1,0,1,29,f,Australia,YES
+1,0,1,0,0,0,0,1,0,0,21,m,United States,NO
+0,1,0,0,0,0,0,1,0,0,27,m,France,NO
+1,0,1,0,1,1,1,1,0,0,21,m,United States,NO
+1,0,0,0,1,0,1,0,0,1,35,m,Saudi Arabia,NO
+0,0,0,0,1,0,0,0,0,0,42,m,New Zealand,NO
+1,1,0,0,0,0,1,1,0,1,29,f,New Zealand,NO
+0,0,1,1,0,0,0,1,0,0,58,m,New Zealand,NO
+1,0,1,1,0,0,1,1,0,1,21,m,United States,NO
+1,1,1,0,0,0,0,1,1,1,21,m,United States,NO
+0,0,1,1,1,0,0,1,1,1,37,f,United States,NO
+1,1,0,1,1,1,1,1,0,0,21,m,United States,YES
+1,0,0,0,0,0,1,1,0,0,20,m,United States,NO
+1,1,0,1,1,1,1,1,1,0,33,f,United States,YES
+1,0,0,1,1,0,0,0,0,1,20,m,United States,NO
+1,1,0,0,0,0,0,0,0,0,45,f,Jordan,NO
+0,0,1,1,0,0,1,1,0,1,32,m,Afghanistan,NO
+1,0,0,0,0,0,1,0,0,1,30,m,Jordan,NO
+1,1,1,1,1,1,1,1,1,1,33,f,Netherlands,YES
+0,0,1,0,1,0,0,1,0,1,42,f,Jordan,NO
+1,1,0,0,0,0,0,0,0,0,17,f,New Zealand,NO
+1,0,0,0,0,0,0,1,0,1,27,f,United States,NO
+1,0,0,1,1,1,1,1,1,1,35,f,Afghanistan,YES
+1,0,0,0,0,0,0,0,0,0,37,m,United Kingdom,NO
+1,0,0,0,0,0,0,1,1,1,30,f,United Kingdom,NO
+1,1,1,1,1,1,0,1,1,1,29,f,New Zealand,YES
+1,0,1,1,0,0,0,0,0,1,17,f,Romania,NO
+0,1,0,0,1,0,1,0,0,1,,f,Jordan,NO
+0,0,0,1,1,1,0,1,0,1,22,f,New Zealand,NO
+1,1,1,0,1,1,1,0,1,1,19,f,Brazil,YES
+1,1,1,1,1,0,0,1,1,1,42,f,Sweden,YES
+1,1,0,0,0,0,0,1,0,1,37,f,United Kingdom,NO
+1,0,0,0,1,0,1,1,0,0,28,f,Australia,NO
+1,0,0,1,1,0,1,0,0,0,22,m,New Zealand,NO
+1,1,0,0,0,0,0,1,0,0,26,f,Tonga,NO
+0,0,0,0,0,0,0,0,1,0,21,m,Oman,NO
+0,1,1,0,0,0,0,1,0,0,26,f,India,NO
+1,0,0,0,0,0,0,1,0,0,39,f,Philippines,NO
+1,0,0,0,0,0,0,0,1,1,26,m,New Zealand,NO
+1,1,0,0,1,0,1,1,0,0,26,m,India,NO
+0,0,0,0,1,1,0,1,0,1,21,m,India,NO
+0,0,0,0,0,0,0,0,0,0,25,m,India,NO
+0,0,1,0,1,1,1,1,0,1,26,m,New Zealand,NO
+1,1,0,1,1,0,1,1,0,1,30,f,United States,YES
+1,0,0,1,1,1,1,0,0,0,19,f,India,NO
+1,0,0,0,0,1,1,0,0,0,19,f,India,NO
+1,0,1,1,1,1,1,1,1,1,25,f,New Zealand,YES
+0,0,1,1,0,1,0,1,1,1,23,m,United Kingdom,NO
+1,0,0,0,1,0,0,0,0,1,31,m,Sri Lanka,NO
+0,1,0,0,0,0,0,1,1,1,27,m,New Zealand,NO
+1,1,0,1,1,1,1,1,0,1,29,f,United Arab Emirates,YES
+1,0,1,1,1,1,0,1,1,0,38,f,United Kingdom,YES
+1,1,1,1,1,1,0,1,0,1,23,f,United States,YES
+1,1,1,0,1,0,1,1,0,0,27,m,United States,NO
+1,1,1,1,1,1,0,1,1,1,27,f,Canada,YES
+1,1,1,1,1,1,0,0,1,0,42,m,United States,YES
+1,1,1,1,1,1,0,1,1,1,20,m,United Kingdom,YES
+1,0,1,1,1,1,1,1,1,1,17,f,United States,YES
+1,0,0,0,0,0,0,0,0,0,20,f,Spain,NO
+1,0,0,1,1,1,1,1,0,1,30,m,Sierra Leone,YES
+1,0,1,1,1,1,1,1,1,1,28,f,Australia,YES
+1,1,0,0,1,1,1,1,0,1,26,f,New Zealand,YES
+0,0,0,0,0,0,0,0,0,0,26,f,Australia,NO
+1,0,0,1,1,1,0,1,0,1,31,m,Canada,NO
+1,0,1,1,0,0,1,0,0,1,40,f,United Kingdom,NO
+1,0,0,0,1,0,0,0,1,1,39,f,Ireland,NO
+1,1,0,0,0,0,0,1,0,0,18,f,United States,NO
+1,0,0,0,0,0,0,1,0,1,24,m,Ethiopia,NO
+1,1,0,0,0,0,0,1,0,0,23,m,India,NO
+1,0,1,1,0,0,0,1,0,1,24,m,India,NO
+0,1,0,0,1,1,0,1,1,0,24,m,New Zealand,NO
+1,0,1,1,0,0,0,1,1,1,27,m,New Zealand,NO
+0,1,1,0,0,1,0,0,1,1,24,m,New Zealand,NO
+0,0,0,0,1,0,0,0,0,1,25,m,India,NO
+1,0,0,0,0,0,1,0,0,1,22,m,New Zealand,NO
+0,1,0,0,0,0,0,0,0,1,40,f,New Zealand,NO
+0,0,1,1,0,0,0,1,0,1,23,m,India,NO
+1,0,0,0,0,0,0,1,0,0,29,m,India,NO
+1,0,1,0,0,0,0,1,0,0,25,m,India,NO
+1,0,0,1,1,0,0,1,0,0,27,m,India,NO
+0,0,0,0,0,0,0,1,0,0,22,m,New Zealand,NO
+1,0,0,1,1,1,1,1,1,1,28,m,United States,YES
+1,0,1,1,1,1,1,1,1,1,20,m,Australia,YES
+1,1,1,1,1,1,1,1,1,1,19,f,Romania,YES
+1,1,0,0,1,1,1,1,0,1,37,f,United States,YES
+1,1,1,1,1,0,1,1,1,0,35,m,United States,YES
+0,0,0,0,1,0,0,1,0,0,26,m,New Zealand,NO
+0,1,1,1,1,0,1,1,0,1,23,m,Viet Nam,YES
+1,1,0,0,1,0,0,0,0,1,32,f,New Zealand,NO
+0,0,1,0,1,0,1,0,1,1,30,m,Sri Lanka,NO
+1,0,0,0,1,0,1,0,0,1,31,m,Sri Lanka,NO
+0,0,0,0,0,0,1,1,0,1,28,f,New Zealand,NO
+1,0,0,0,0,1,0,1,0,1,29,f,Sri Lanka,NO
+0,1,0,0,1,0,0,1,0,1,29,f,Sri Lanka,NO
+1,0,0,1,0,0,0,0,1,1,29,f,India,NO
+1,0,0,0,0,0,1,1,0,0,31,m,India,NO
+0,0,0,0,0,0,0,0,0,0,36,m,India,NO
+0,1,0,0,0,0,0,1,0,0,32,f,India,NO
+0,0,0,0,0,0,0,1,0,0,34,f,New Zealand,NO
+1,1,0,0,0,0,0,1,0,0,24,m,Sri Lanka,NO
+1,0,1,0,1,0,1,1,0,1,24,f,New Zealand,NO
+1,0,0,0,1,0,1,1,0,1,42,m,Sri Lanka,NO
+0,0,1,0,0,0,0,1,1,1,26,f,India,NO
+1,0,0,0,1,0,1,1,0,0,27,f,Sri Lanka,NO
+0,0,1,1,1,0,0,1,1,1,36,f,Brazil,NO
+1,1,1,1,1,0,0,1,1,1,36,f,Brazil,YES
+1,0,1,1,0,0,1,1,0,1,55,m,United States,NO
+1,1,0,1,0,0,1,0,0,0,23,f,New Zealand,NO
+0,0,1,1,1,0,0,0,0,1,22,f,Sri Lanka,NO
+1,0,0,0,0,0,0,1,0,0,42,f,France,NO
+1,0,0,1,0,0,0,1,0,0,54,m,Canada,NO
+1,1,0,0,0,0,1,1,1,1,43,f,United States,NO
+1,1,1,1,1,1,0,1,1,1,43,f,United States,YES
+0,0,1,1,1,0,0,1,1,1,29,m,Iran,NO
+1,0,1,0,1,0,0,1,0,1,29,m,Iran,NO
+1,0,1,0,1,0,1,0,0,0,37,m,Australia,NO
+1,0,0,0,1,0,1,0,0,1,39,f,Australia,NO
+1,1,1,1,1,0,0,0,0,0,18,f,Viet Nam,NO
+0,1,0,1,1,1,0,1,0,1,31,m,United States,NO
+0,0,1,1,1,0,0,0,0,1,34,m,New Zealand,NO
+0,0,1,1,1,0,1,0,0,1,22,m,United States,NO
+1,0,1,1,1,1,1,0,1,0,28,m,India,YES
+1,0,0,0,0,0,1,1,0,1,38,m,Netherlands,NO
+1,0,0,0,0,0,1,1,0,1,28,f,Australia,NO
+1,1,0,1,1,1,0,1,1,1,53,f,United States,YES
+1,1,1,0,1,0,1,0,0,0,26,m,United Kingdom,NO
+1,1,1,1,1,1,0,1,1,1,37,m,United Kingdom,YES
+1,1,0,1,0,0,0,1,0,1,42,m,Costa Rica,NO
+1,0,0,0,0,0,0,1,0,1,43,m,United States,NO
+1,0,0,0,0,0,0,1,0,0,32,f,United Kingdom,NO
+0,1,0,1,0,0,0,1,0,0,31,m,United Kingdom,NO
+1,0,1,1,1,1,1,1,1,1,53,f,United States,YES
+1,1,1,1,1,1,1,1,1,1,28,m,United States,YES
+1,0,1,1,1,1,1,1,1,1,38,m,Germany,YES
+1,1,1,0,1,1,0,1,1,0,31,m,United States,YES
+1,1,1,1,0,0,0,0,0,0,31,f,United States,NO
+1,1,1,1,1,0,1,1,1,1,21,f,Australia,YES
+1,1,0,1,1,0,0,0,1,1,25,f,United States,NO
+1,1,0,1,1,0,0,1,1,1,25,f,United States,YES
+1,1,1,1,1,1,1,0,1,1,60,f,United States,YES
+1,0,1,1,0,0,0,0,0,0,39,m,United States,NO
+1,1,1,1,1,1,1,1,1,1,53,m,United States,YES
+1,1,1,1,1,1,1,1,1,1,20,m,United States,YES
+1,1,1,0,1,0,0,1,1,1,25,f,United States,YES
+1,1,1,1,0,0,1,1,0,0,50,m,United Kingdom,NO
+1,0,0,1,1,1,1,1,1,1,28,f,United States,YES
+1,0,1,1,1,1,1,1,1,1,37,f,United Kingdom,YES
+0,0,0,1,0,1,0,1,1,1,30,m,India,NO
+1,1,0,0,0,1,1,1,0,1,32,f,United Kingdom,NO
+1,0,1,1,0,0,0,0,0,1,34,f,United States,NO
+1,1,1,1,0,0,0,0,0,1,42,m,United States,NO
+1,1,0,0,1,1,1,1,1,1,22,f,Spain,YES
+1,0,0,0,0,0,1,1,0,1,37,f,United Arab Emirates,NO
+1,1,0,0,0,0,0,1,0,1,39,m,United States,NO
+1,1,0,1,1,0,1,1,0,1,18,m,Bangladesh,YES
+1,0,0,1,0,0,0,0,0,0,54,f,United States,NO
+1,1,0,0,0,0,0,1,0,0,42,m,United Kingdom,NO
+0,0,1,0,0,0,0,0,0,0,27,f,Afghanistan,NO
+1,1,1,1,1,0,0,1,0,0,22,m,United Kingdom,NO
+1,0,1,1,0,1,1,1,1,1,22,m,United Kingdom,YES
+1,1,1,1,1,1,1,0,1,1,21,f,United Kingdom,YES
+0,1,0,1,0,0,0,1,0,1,28,f,United States,NO
+1,1,1,1,1,1,1,0,1,1,17,m,India,YES
+0,1,0,0,0,0,0,0,0,0,28,m,United States,NO
+0,0,0,1,1,0,1,1,0,1,21,m,Mexico,NO
+1,1,1,1,1,1,1,1,1,1,31,f,New Zealand,YES
+1,0,0,0,0,0,1,1,0,0,20,m,New Zealand,NO
+1,0,0,1,0,0,0,0,0,0,21,m,United Kingdom,NO
+1,1,0,0,1,0,0,0,0,0,22,m,New Zealand,NO
+0,1,0,0,0,0,0,1,1,1,21,m,New Zealand,NO
+0,1,1,0,0,0,0,0,0,0,24,m,New Zealand,NO
+1,0,0,0,0,0,0,1,0,0,24,m,India,NO
+1,0,0,0,1,1,1,1,0,1,25,m,New Zealand,NO
+1,0,0,0,0,0,0,0,0,1,17,m,New Zealand,NO
+0,1,0,0,0,0,0,1,1,0,21,m,Russia,NO
+1,0,0,0,0,0,0,1,0,0,23,m,New Zealand,NO
+1,0,0,1,1,0,1,1,0,0,21,m,New Zealand,NO
+1,0,0,0,1,0,1,1,1,1,22,m,New Zealand,NO
+1,0,0,0,1,0,0,1,0,1,24,f,India,NO
+0,0,1,0,1,1,0,0,1,1,34,m,New Zealand,NO
+1,0,1,0,1,0,1,1,0,1,30,m,New Zealand,NO
+1,0,0,0,0,0,1,1,0,1,29,f,India,NO
+1,0,0,1,1,0,1,1,0,0,20,m,New Zealand,NO
+0,0,1,1,0,1,0,1,1,1,23,m,New Zealand,NO
+0,0,0,0,0,0,0,1,0,1,26,m,India,NO
+1,0,0,1,1,1,1,1,1,1,20,m,New Zealand,YES
+1,0,0,0,0,0,1,1,0,0,41,m,New Zealand,NO
+1,0,0,1,0,0,1,1,0,0,24,m,India,NO
+0,0,0,1,0,0,0,1,0,0,35,m,India,NO
+0,0,0,1,0,0,1,0,0,0,23,m,India,NO
+1,0,1,0,0,0,1,0,0,0,36,m,New Zealand,NO
+1,1,0,0,1,0,0,1,0,0,33,m,Armenia,NO
+1,0,0,0,0,1,0,1,1,1,24,m,India,NO
+0,1,1,0,1,0,0,1,0,0,25,m,New Zealand,NO
+1,0,0,0,1,1,0,1,0,1,25,m,India,NO
+1,0,0,0,0,0,1,1,1,1,25,m,India,NO
+0,0,0,0,0,0,1,1,0,1,24,m,India,NO
+1,0,1,0,1,0,0,1,0,1,27,f,India,NO
+1,0,0,0,0,0,1,1,0,0,26,m,India,NO
+0,0,0,0,0,0,0,0,0,0,26,m,New Zealand,NO
+1,0,0,0,1,0,0,1,1,0,23,f,India,NO
+1,1,1,0,1,0,1,1,0,1,30,m,New Zealand,YES
+1,0,0,1,0,0,0,0,1,0,25,m,Iceland,NO
+1,0,0,0,0,0,0,1,0,1,23,m,New Zealand,NO
+1,0,1,1,1,0,0,1,0,0,34,f,United States,NO
+1,0,0,1,1,0,1,1,0,1,20,f,New Zealand,NO
+1,0,1,1,1,1,0,0,1,1,22,f,Russia,YES
+1,1,1,1,0,0,0,1,1,1,33,f,France,YES
+1,1,1,1,1,1,1,1,1,1,46,m,Netherlands,YES
+1,1,0,0,0,0,0,0,0,0,17,m,United Kingdom,NO
+1,1,1,0,0,0,0,1,0,0,45,f,United States,NO
+0,1,1,1,0,0,0,0,1,0,26,m,India,NO
+1,0,0,0,1,0,0,0,1,0,30,m,Jordan,NO
+1,1,0,0,0,0,0,0,0,0,32,f,Jordan,NO
+1,0,1,1,1,1,1,1,1,1,38,f,United Kingdom,YES
+0,1,1,0,1,0,0,0,0,0,26,m,Nicaragua,NO
+1,0,0,0,0,0,0,0,0,0,29,f,United States,NO
+1,1,1,1,1,0,0,1,1,1,33,m,Australia,YES
+0,1,1,0,1,1,1,0,1,1,32,f,France,YES
+1,1,1,1,1,1,1,1,1,1,44,f,United States,YES
+0,1,0,0,0,0,1,0,0,1,47,f,United Kingdom,NO
+0,0,0,1,1,1,1,0,1,1,32,f,Hong Kong,NO
+0,0,0,0,0,0,0,0,0,0,40,m,New Zealand,NO
+1,0,0,1,1,0,0,1,0,1,40,m,United States,NO
+0,0,0,0,0,0,0,0,0,0,44,f,New Zealand,NO
+1,1,1,0,1,1,1,0,1,1,56,m,United Kingdom,YES
+1,1,1,0,1,1,1,0,1,1,23,f,Ireland,YES
+1,1,0,1,1,0,0,1,1,1,32,f,Canada,YES
+0,1,1,1,0,0,0,1,0,1,27,m,United Kingdom,NO
+1,0,0,0,1,0,1,0,0,1,28,f,United Kingdom,NO
+0,0,0,0,0,0,0,0,0,0,40,f,Afghanistan,NO
+1,0,1,1,1,1,0,0,1,1,45,f,Canada,YES
+1,1,1,1,1,1,0,0,1,1,19,f,United Kingdom,YES
+1,1,1,1,0,1,0,1,1,1,55,m,United States,YES
+1,0,0,1,0,0,1,1,0,1,27,f,Australia,NO
+1,1,1,1,1,1,1,0,1,1,19,f,United Kingdom,YES
+1,0,0,1,0,0,0,1,0,0,29,m,Ireland,NO
+1,1,1,1,1,1,1,1,1,1,33,f,United Kingdom,YES
+0,0,1,1,1,1,1,1,0,0,48,f,Netherlands,NO
+0,0,0,0,0,0,0,1,1,0,37,f,United Kingdom,NO
+1,1,1,1,1,0,0,0,1,0,30,m,Afghanistan,NO
+1,1,0,1,0,0,0,0,0,1,37,f,United Kingdom,NO
+1,0,0,1,1,0,1,1,1,1,28,f,Saudi Arabia,YES
+1,0,0,1,1,1,1,1,1,1,20,f,Austria,YES
+1,1,1,1,1,1,0,0,1,1,25,f,United States,YES
+1,1,1,1,1,1,0,1,0,0,58,f,United Kingdom,YES
+1,0,1,0,0,0,0,0,0,0,36,f,United States,NO
+0,0,1,1,1,0,0,1,0,0,36,m,United States,NO
+1,0,1,0,1,1,1,1,1,0,19,m,United States,YES
+1,0,1,1,1,1,0,1,1,0,19,m,United States,YES
+1,0,0,1,1,0,0,1,0,1,22,f,New Zealand,NO
+1,1,0,0,0,0,0,1,0,0,20,m,United Arab Emirates,NO
+0,1,0,0,0,0,1,1,0,1,24,f,United Arab Emirates,NO
+0,0,0,1,1,0,0,1,1,0,19,m,United Arab Emirates,NO
+1,1,1,0,1,0,0,1,0,1,21,m,United Arab Emirates,NO
+0,0,0,0,0,0,0,0,0,0,20,m,United Arab Emirates,NO
+1,1,0,0,0,0,0,0,0,0,18,f,United Arab Emirates,NO
+0,1,1,0,0,0,0,1,0,1,23,f,United Arab Emirates,NO
+1,1,1,0,1,1,1,1,0,1,22,m,United Arab Emirates,YES
+1,1,0,1,1,0,0,0,0,0,18,f,Bangladesh,NO
+1,0,0,0,0,0,0,0,0,1,37,f,United Arab Emirates,NO
+1,1,1,0,1,0,0,1,0,0,18,m,United Arab Emirates,NO
+1,1,1,0,1,0,0,1,0,0,18,m,United Arab Emirates,NO
+0,0,0,0,1,0,0,1,0,0,18,m,United Arab Emirates,NO
+1,1,1,0,0,0,0,1,0,0,18,m,United Arab Emirates,NO
+0,1,0,0,0,0,1,1,0,0,18,m,United Arab Emirates,NO
+1,1,1,0,0,0,0,1,0,0,18,m,United Arab Emirates,NO
+1,1,1,1,1,1,1,1,1,1,19,m,Austria,YES
+1,0,0,1,1,1,1,0,1,1,55,m,United Kingdom,YES
+1,0,0,0,0,1,1,0,1,1,32,f,Canada,NO
+1,1,0,1,0,0,1,1,0,0,50,m,United Kingdom,NO
+1,1,1,1,0,0,1,1,0,0,40,m,United Kingdom,NO
+1,0,0,1,1,1,0,0,0,0,47,m,Jordan,NO
+1,1,0,0,0,0,0,0,0,1,20,m,Jordan,NO
+1,0,1,0,0,0,1,1,0,0,22,f,Jordan,NO
+1,0,0,0,0,0,1,0,0,0,21,f,Jordan,NO
+1,0,1,1,0,0,1,1,1,0,21,f,Jordan,NO
+1,1,1,1,1,0,0,1,0,0,19,m,Jordan,NO
+1,0,1,1,0,0,0,0,0,0,21,f,Jordan,NO
+1,0,0,1,0,0,0,0,0,0,21,m,Jordan,NO
+0,1,0,1,0,1,0,1,0,1,23,f,Jordan,NO
+1,0,0,0,0,0,0,0,0,0,21,m,Jordan,NO
+1,0,0,0,1,0,1,1,1,0,21,m,Jordan,NO
+0,0,0,0,0,0,0,1,0,0,23,m,Jordan,NO
+1,0,1,1,0,1,1,1,1,1,20,f,Jordan,YES
+1,1,1,0,0,0,0,1,0,1,21,f,Jordan,NO
+1,1,1,0,1,0,1,1,1,1,20,m,Argentina,YES
+1,1,0,0,0,0,1,1,0,0,19,m,Jordan,NO
+0,1,0,0,0,0,0,1,0,0,21,m,Jordan,NO
+1,0,1,0,0,0,1,0,0,0,26,m,Jordan,NO
+0,0,0,1,0,0,0,1,0,0,21,m,Jordan,NO
+0,0,0,0,1,0,0,1,0,0,19,m,Japan,NO
+1,0,0,1,0,0,0,1,0,1,22,m,United Arab Emirates,NO
+1,0,0,0,0,0,0,1,0,0,19,f,United Arab Emirates,NO
+1,0,0,1,0,0,1,0,0,1,22,m,United Arab Emirates,NO
+0,0,1,0,0,0,0,0,0,1,20,m,United Arab Emirates,NO
+1,0,1,0,1,0,0,1,0,0,23,m,United Arab Emirates,NO
+0,0,0,0,0,1,0,1,0,0,19,f,Ukraine,NO
+0,0,0,0,1,0,0,1,0,1,20,m,United Arab Emirates,NO
+0,1,0,1,0,0,0,0,0,0,24,m,United Arab Emirates,NO
+0,1,1,0,0,0,0,1,0,1,19,m,United Arab Emirates,NO
+1,0,0,0,0,1,0,1,0,1,20,m,United Arab Emirates,NO
+1,0,1,0,1,0,0,1,0,1,23,m,United Arab Emirates,NO
+0,0,1,1,0,0,1,0,0,1,20,m,Russia,NO
+1,0,1,0,1,0,0,1,0,1,20,m,United Arab Emirates,NO
+0,0,0,0,0,0,0,1,1,0,20,m,United Arab Emirates,NO
+1,0,1,0,0,0,0,0,0,1,20,f,United Arab Emirates,NO
+1,0,0,1,1,0,0,1,0,1,21,f,Afghanistan,NO
+0,1,0,0,0,0,0,0,0,1,19,m,Kazakhstan,NO
+1,0,0,0,0,0,0,1,0,1,20,f,United Arab Emirates,NO
+1,0,0,1,1,0,1,0,0,1,20,m,Saudi Arabia,NO
+1,0,0,0,0,1,0,0,1,0,25,m,Armenia,NO
+1,0,0,0,0,0,0,1,0,0,20,f,United Arab Emirates,NO
+1,0,0,0,0,1,1,1,0,1,22,m,AmericanSamoa,NO
+1,0,0,0,0,0,0,1,0,0,20,f,United Arab Emirates,NO
+0,1,0,0,1,1,0,0,0,0,20,m,United Arab Emirates,NO
+0,0,0,1,0,0,1,0,0,0,20,f,Jordan,NO
+1,0,0,0,0,0,0,1,0,0,23,f,Jordan,NO
+1,1,1,1,1,0,1,0,1,1,21,f,Jordan,YES
+1,0,0,0,0,0,1,1,0,1,22,m,Jordan,NO
+1,1,0,0,0,0,0,1,0,0,21,f,Jordan,NO
+1,0,1,0,0,0,0,0,0,1,20,f,Jordan,NO
+1,0,0,1,0,0,0,0,0,0,22,f,Jordan,NO
+1,0,1,1,1,0,1,1,0,0,21,f,Jordan,NO
+1,1,0,0,1,0,0,1,0,0,20,f,Jordan,NO
+0,1,0,0,0,0,0,1,0,0,20,f,United Arab Emirates,NO
+1,0,0,0,1,0,0,1,0,0,21,m,Jordan,NO
+1,0,1,1,1,0,0,0,1,1,21,m,United Arab Emirates,NO
+0,1,0,0,0,1,0,1,0,1,23,f,United Arab Emirates,NO
+1,1,0,0,0,0,0,1,0,0,21,f,United Arab Emirates,NO
+1,0,0,0,1,1,0,1,0,1,22,f,United Arab Emirates,NO
+0,1,1,1,0,1,0,1,0,0,19,f,United Arab Emirates,NO
+1,1,1,0,1,0,0,0,0,0,20,f,United Arab Emirates,NO
+0,1,0,0,0,0,0,1,0,1,21,f,United Arab Emirates,NO
+0,1,1,0,0,0,0,1,0,0,26,m,United Arab Emirates,NO
+1,0,0,0,0,0,0,0,0,0,19,f,Kazakhstan,NO
+1,0,0,1,0,0,1,1,0,1,20,f,United Arab Emirates,NO
+1,0,0,0,0,0,0,1,0,1,26,f,United Arab Emirates,NO
+1,0,0,1,0,0,1,0,0,1,23,f,United Arab Emirates,NO
+1,0,0,1,0,0,1,0,0,1,28,f,United Arab Emirates,NO
+0,1,0,1,1,0,0,0,0,0,19,f,United Arab Emirates,NO
+1,0,0,0,0,0,1,1,0,0,20,f,United Arab Emirates,NO
+0,1,0,0,1,0,1,1,0,1,19,f,United Arab Emirates,NO
+1,0,1,1,1,1,1,1,1,0,24,m,India,YES
+1,0,0,1,1,0,0,1,0,1,19,f,United Arab Emirates,NO
+1,1,0,0,0,0,0,0,0,0,22,f,United Arab Emirates,NO
+1,1,0,1,0,0,0,0,0,1,20,f,United Arab Emirates,NO
+0,1,0,1,0,0,0,1,0,0,21,m,United Arab Emirates,NO
+0,0,1,1,1,0,0,1,0,0,24,f,United Arab Emirates,NO
+0,0,1,1,1,0,0,0,0,1,18,f,United Arab Emirates,NO
+1,0,1,1,1,0,1,1,0,1,19,f,United Arab Emirates,YES
+1,0,1,0,0,0,0,0,0,0,19,f,United Arab Emirates,NO
+1,0,0,0,0,0,1,1,0,1,31,m,United Arab Emirates,NO
+1,1,0,1,0,0,1,1,0,0,19,m,United Arab Emirates,NO
+1,0,0,0,0,0,1,0,1,1,21,f,United Arab Emirates,NO
+1,0,0,0,1,0,1,0,0,1,20,m,United Arab Emirates,NO
+1,0,1,0,1,0,1,1,0,1,26,f,United Arab Emirates,NO
+0,0,0,0,0,0,1,0,0,0,27,m,Afghanistan,NO
+1,0,1,0,0,1,0,1,0,0,23,f,United Arab Emirates,NO
+0,1,0,1,0,0,0,0,0,0,29,f,United Arab Emirates,NO
+1,1,1,1,0,0,1,0,0,0,23,m,United Arab Emirates,NO
+1,0,0,0,0,0,1,1,0,1,23,m,United Arab Emirates,NO
+1,0,1,1,1,1,0,1,1,1,24,m,India,YES
+1,0,0,1,0,0,1,1,0,0,21,m,Jordan,NO
+0,0,0,0,1,0,1,0,0,0,20,f,Brazil,NO
+1,0,1,0,1,0,1,1,1,0,20,m,Jordan,NO
+1,1,1,1,1,1,1,0,1,1,32,f,France,YES
+1,1,1,1,1,1,1,1,1,1,61,m,Uruguay,YES
+1,0,0,1,1,0,0,0,0,0,19,m,Jordan,NO
+1,1,1,1,1,1,0,1,1,0,35,f,Italy,YES
+1,0,0,0,0,1,0,0,0,1,34,f,Ukraine,NO
+0,0,1,1,0,0,0,0,0,0,23,f,United Arab Emirates,NO
+1,1,1,1,0,0,0,0,0,1,19,f,Serbia,NO
+1,1,0,0,1,1,0,1,0,1,36,f,Philippines,NO
+1,1,0,0,0,0,0,1,0,1,21,f,Jordan,NO
+0,1,0,0,0,0,0,1,0,0,23,m,United States,NO
+1,0,1,1,1,0,1,0,0,1,17,m,United States,NO
+1,0,1,0,0,0,0,0,0,0,22,m,Portugal,NO
+0,1,1,1,1,0,1,0,0,1,33,m,Australia,NO
+1,1,1,1,1,0,0,1,0,1,23,f,Malaysia,YES
+0,1,1,1,1,1,0,1,0,1,35,f,Sweden,YES
+1,0,0,0,0,0,0,1,0,1,21,m,Australia,NO
+1,0,0,1,1,0,1,1,1,1,20,f,Austria,YES
+1,0,0,0,0,0,0,1,0,0,29,m,Netherlands,NO
+1,1,1,1,1,1,1,0,1,1,59,m,United States,YES
+1,1,1,0,0,0,0,1,0,1,18,f,Netherlands,NO
+1,1,0,0,0,0,0,1,0,0,19,f,United Arab Emirates,NO
+0,0,1,1,0,0,0,1,0,0,24,m,United Arab Emirates,NO
+1,1,1,1,1,0,0,1,1,0,36,f,Italy,YES
+0,0,1,1,1,0,0,0,0,1,19,f,Jordan,NO
+1,1,0,0,0,0,1,0,0,0,17,f,United Arab Emirates,NO
+1,0,0,0,0,0,0,1,0,1,52,m,United Kingdom,NO
+1,1,0,1,1,0,0,0,0,0,18,m,United Arab Emirates,NO
+0,0,0,0,0,0,1,0,0,0,30,m,Philippines,NO
+0,1,1,1,1,1,0,1,1,1,18,m,New Zealand,YES
+1,1,1,1,1,0,0,1,0,0,27,m,Ecuador,NO
+0,0,0,1,0,0,0,0,0,0,52,f,United Kingdom,NO
+0,0,0,0,0,0,0,1,0,0,45,f,Viet Nam,NO
+0,1,1,1,1,1,0,0,1,0,25,f,Afghanistan,NO
+0,0,0,1,0,0,1,0,0,1,29,f,United Kingdom,NO
+1,1,0,1,1,1,1,1,0,1,29,f,United States,YES
+1,0,0,0,0,1,0,0,0,1,18,m,Netherlands,NO
+0,0,1,1,0,1,1,1,1,1,18,m,Netherlands,YES
+1,0,1,1,0,1,0,0,0,1,17,m,Netherlands,NO
+1,1,1,1,1,1,1,1,1,1,27,f,United States,YES
+0,0,0,0,0,0,0,1,0,0,22,f,Malaysia,NO
+0,0,0,0,0,1,0,1,1,0,23,m,India,NO
+1,1,1,1,1,0,1,1,0,0,25,m,United Kingdom,YES
+1,0,1,1,1,0,0,0,0,0,23,f,New Zealand,NO
+1,0,0,0,0,0,0,1,0,1,29,m,India,NO
+1,0,0,1,1,0,1,0,0,0,27,f,Sri Lanka,NO
+1,0,0,0,0,1,0,1,0,0,27,f,India,NO
+0,0,0,0,0,0,0,0,0,0,43,f,India,NO
+1,0,0,0,0,0,0,1,0,0,26,f,India,NO
+1,0,0,0,1,0,0,1,0,1,30,f,India,NO
+0,0,0,0,0,0,0,1,0,0,23,m,India,NO
+1,0,0,0,1,0,1,1,0,0,29,f,Sri Lanka,NO
+0,0,0,0,0,0,0,1,0,1,37,m,United Kingdom,NO
+0,0,0,0,0,0,1,0,0,1,28,f,United Kingdom,NO
+1,1,1,1,0,0,1,1,0,0,25,m,United States,NO
+1,0,1,1,0,0,1,1,0,0,25,m,India,NO
+0,1,0,0,0,0,0,1,1,0,21,m,Jordan,NO
+1,1,1,1,1,1,1,0,1,1,43,m,United Kingdom,YES
+1,1,0,1,1,1,0,0,1,1,30,f,United States,YES
+0,1,1,0,0,0,1,0,0,1,18,m,Niger,NO
+1,1,1,1,0,0,0,1,0,0,18,f,Romania,NO
+1,1,1,1,0,0,1,1,1,0,30,m,Canada,YES
+0,0,0,0,0,0,0,0,0,0,31,f,Germany,NO
+1,0,0,0,1,0,1,1,0,1,33,m,Mexico,NO
+1,1,1,1,1,1,1,1,1,1,33,m,Mexico,YES
+1,1,1,1,0,0,1,0,0,1,26,m,United Kingdom,NO
+1,0,1,1,0,0,0,0,0,0,61,f,United States,NO
+0,0,0,1,0,0,0,1,0,1,46,m,Viet Nam,NO
+0,1,1,1,1,1,1,0,1,1,33,m,India,YES
+1,1,1,1,1,0,1,1,0,1,38,f,Canada,YES
+1,1,0,0,0,0,0,1,0,0,44,m,France,NO
+0,1,1,1,1,0,0,0,1,0,48,f,France,NO
+1,1,0,1,1,1,0,1,1,1,42,f,Mexico,YES
+0,1,0,0,1,0,1,1,0,0,37,m,Belgium,NO
+1,0,1,1,1,0,0,1,0,1,23,f,United Kingdom,NO
+1,0,1,1,1,0,1,1,1,1,24,m,United Kingdom,YES
+1,0,1,0,1,0,1,1,0,1,41,m,United Kingdom,NO
+1,0,1,0,0,0,1,0,0,1,41,m,United Kingdom,NO
+0,1,1,0,1,0,0,1,0,0,27,m,Belgium,NO
+1,1,1,1,1,1,1,1,1,1,46,f,United Kingdom,YES
+0,1,0,0,0,0,0,0,0,1,40,f,United States,NO
+0,1,1,1,1,1,1,1,0,1,22,f,United States,YES
+1,1,1,1,1,1,1,0,1,1,42,m,United Kingdom,YES
+1,1,1,0,0,0,0,0,0,1,18,f,Viet Nam,NO
+1,0,1,1,0,0,0,0,0,0,44,f,United Kingdom,NO
+1,1,1,1,1,0,1,1,1,1,30,f,United States,YES
+1,1,1,1,1,1,0,1,1,1,42,m,Australia,YES
+1,1,0,1,0,0,1,0,0,0,35,f,United States,NO
+1,0,1,1,1,0,1,0,1,1,40,m,AmericanSamoa,YES
+0,1,0,0,0,0,0,0,1,1,50,f,New Zealand,NO
+0,0,1,1,0,0,0,0,0,1,38,m,Egypt,NO
+1,1,1,1,1,0,0,1,1,1,26,f,Italy,YES
+1,1,1,1,1,0,0,1,0,1,27,f,Malaysia,YES
+1,1,1,1,1,0,1,0,1,0,47,f,United States,YES
+1,1,0,1,1,1,0,0,0,1,21,m,United States,NO
+1,1,1,1,0,1,0,1,1,1,37,m,United Kingdom,YES
+1,0,0,0,0,0,1,1,0,1,19,f,United Kingdom,NO
+0,0,0,1,0,0,1,1,0,1,32,m,United Arab Emirates,NO
+0,0,0,0,1,0,0,1,0,1,26,f,Iran,NO
+1,1,1,1,1,1,1,1,1,1,46,f,Australia,YES
+0,1,0,0,0,0,0,1,0,0,29,m,France,NO
+1,0,0,0,1,0,0,0,0,0,30,f,France,NO
+1,1,0,0,0,0,1,1,0,0,32,f,Bolivia,NO
+0,1,1,1,0,0,0,0,0,1,35,f,United States,NO
+0,1,1,1,1,1,1,1,1,1,22,m,United Kingdom,YES
+0,0,0,1,1,0,1,0,0,1,19,f,Iran,NO
+0,1,0,0,1,0,0,0,0,1,24,m,Iran,NO
+0,1,0,0,1,0,0,0,0,0,52,f,Iran,NO
+0,1,0,0,1,1,0,0,1,1,52,m,Iran,NO
+1,0,1,0,0,1,0,1,0,0,32,f,United States,NO
+0,1,1,1,1,1,0,0,0,1,24,m,United States,NO
+1,1,1,1,1,1,0,1,1,1,24,m,United States,YES
+0,1,0,0,0,0,0,0,0,0,49,f,New Zealand,NO
+0,1,1,1,1,1,1,1,1,1,30,f,Malaysia,YES
+0,1,1,1,1,1,1,1,1,1,30,f,Malaysia,YES
+1,0,1,1,1,1,1,1,1,1,35,f,United Kingdom,YES
+1,0,1,1,1,1,1,0,0,1,35,f,United Kingdom,YES
+1,0,1,1,0,0,0,0,0,1,37,f,United Kingdom,NO
+0,1,1,1,0,0,0,1,0,1,43,m,United Kingdom,NO
+1,1,1,1,0,0,1,0,0,1,52,m,United Kingdom,NO
+1,1,1,1,1,1,1,1,1,1,44,m,United Kingdom,YES
+1,1,0,0,0,0,0,0,0,0,46,f,United Kingdom,NO
+1,0,0,0,1,0,0,0,0,1,42,f,Australia,NO
+0,0,1,0,0,0,0,0,0,0,20,m,Aruba,NO
+1,1,1,0,1,0,1,0,1,1,18,m,New Zealand,YES
+1,1,1,1,1,1,0,1,1,1,38,m,Finland,YES
+1,0,0,1,1,0,0,1,0,0,24,f,Mexico,NO
+1,1,0,0,0,0,0,1,0,0,32,m,Jordan,NO
+1,1,0,1,1,0,0,0,0,0,29,m,United States,NO
+1,1,1,1,1,1,1,1,0,1,22,f,United States,YES
+0,1,1,1,1,1,0,0,0,1,19,f,United Kingdom,NO
+1,1,1,1,1,1,1,0,1,1,39,f,United States,YES
+1,0,0,1,1,1,1,1,1,1,17,m,United States,YES
+0,1,0,1,0,1,1,0,1,1,19,f,Iceland,NO
+1,0,0,0,0,0,1,1,1,0,18,m,Australia,NO
+0,1,0,0,1,1,0,0,1,0,19,m,Kazakhstan,NO
+0,1,0,0,0,0,0,1,0,0,28,f,Turkey,NO
+0,1,0,1,0,1,0,0,0,1,29,m,New Zealand,NO
+1,1,0,0,0,0,1,1,0,0,48,m,Australia,NO
+1,1,1,1,1,1,0,1,1,1,27,f,Netherlands,YES
+1,0,1,1,0,0,0,0,0,0,34,f,United Kingdom,NO
+1,1,0,1,0,0,0,0,0,1,31,m,Australia,NO
+1,0,0,0,0,0,0,1,0,1,47,m,Jordan,NO
+1,0,0,1,0,0,0,1,0,0,47,m,Jordan,NO
+1,1,1,1,1,1,1,1,1,1,44,m,United Kingdom,YES
+1,0,0,0,1,0,1,1,0,0,25,f,United States,NO
+1,0,0,0,1,0,1,1,0,0,25,f,United States,NO
+1,1,0,0,1,1,1,1,1,1,20,m,United Kingdom,YES
+1,1,1,1,1,0,1,1,1,1,43,m,New Zealand,YES
+1,1,1,1,1,0,0,1,1,1,36,f,United Kingdom,YES
+1,1,0,0,0,0,0,1,0,0,30,f,United States,NO
+0,0,1,1,0,0,0,0,0,0,44,m,United Kingdom,NO
+1,1,0,0,1,0,0,0,0,1,40,f,United Kingdom,NO
+1,1,0,0,1,1,0,1,1,0,40,f,United Kingdom,NO
+1,1,0,1,1,1,0,1,1,0,40,f,United Kingdom,YES
+1,1,1,1,1,0,0,1,0,1,30,m,United States,YES
+1,0,1,1,0,0,1,0,0,1,47,f,United Kingdom,NO
+1,1,1,1,1,1,1,1,1,1,21,m,Brazil,YES
+1,1,1,1,1,1,0,1,1,1,21,m,Brazil,YES
+1,0,1,1,1,1,1,1,1,1,31,f,New Zealand,YES
+1,1,1,0,0,0,0,0,0,0,21,f,New Zealand,NO
+0,1,1,1,0,0,0,1,1,0,29,f,United States,NO
+0,1,1,1,1,0,1,0,1,0,22,m,Afghanistan,NO
+1,1,1,1,1,1,1,1,1,1,51,m,United Kingdom,YES
+1,0,0,0,0,0,0,0,0,0,23,m,Russia,NO
+1,0,0,0,1,0,0,0,1,1,30,m,India,NO
+1,1,0,0,0,0,0,1,0,0,22,m,India,NO
+1,1,0,0,0,0,0,1,0,1,22,m,New Zealand,NO
+1,0,0,0,1,0,1,1,0,1,24,m,India,NO
+1,0,0,0,0,0,0,1,0,1,26,f,India,NO
+1,0,1,1,0,0,0,1,1,1,33,f,India,NO
+1,0,0,0,0,0,0,1,1,0,23,m,India,NO
+1,0,1,0,0,0,0,1,0,0,42,f,India,NO
+1,0,1,0,0,0,0,0,0,0,26,f,India,NO
+1,0,0,0,0,0,0,1,0,0,29,f,New Zealand,NO
+1,0,0,0,0,0,1,0,0,1,35,f,India,NO
+1,0,0,0,1,1,0,1,0,0,25,f,India,NO
+1,0,0,0,0,0,1,1,0,0,25,m,Sri Lanka,NO
+0,0,0,0,0,0,0,1,0,0,28,f,India,NO
+1,0,0,0,0,0,0,0,0,0,33,m,Germany,NO
+1,0,0,1,0,0,1,1,0,0,25,m,India,NO
+0,0,1,0,1,1,0,1,0,1,25,m,India,NO
+1,0,0,0,1,0,1,1,0,0,24,m,India,NO
+1,1,1,1,0,0,0,0,0,1,27,f,India,NO
+1,0,0,0,0,0,0,0,0,0,22,m,India,NO
+1,1,0,1,0,0,0,1,0,1,21,f,India,NO
+1,0,1,1,0,1,0,1,0,1,27,f,India,NO
+1,0,0,0,1,0,1,0,0,0,23,m,India,NO
+0,0,0,1,1,0,0,1,0,1,22,m,India,NO
+0,1,0,0,0,0,0,0,0,1,23,f,India,NO
+1,0,0,1,0,0,0,1,0,1,30,m,India,NO
+0,1,0,0,1,0,1,1,0,0,33,m,India,NO
+1,0,1,1,1,0,1,1,1,0,24,f,India,YES
+1,0,0,0,1,0,1,1,0,0,22,f,New Zealand,NO
+1,0,0,1,1,0,1,1,1,1,22,m,New Zealand,YES
+1,0,0,0,0,0,0,1,0,1,29,f,India,NO
+1,0,1,0,1,0,1,1,0,1,22,f,India,NO
+1,0,1,0,0,0,0,1,0,0,21,m,India,NO
+1,0,0,0,0,0,1,1,0,0,23,m,India,NO
+1,0,0,0,1,0,1,1,0,1,23,f,India,NO
+1,0,0,0,1,0,1,1,1,1,23,f,India,NO
+1,1,0,1,1,0,1,1,0,0,32,m,Sri Lanka,NO
+0,0,0,0,0,0,1,0,0,1,27,m,Sri Lanka,NO
+0,0,1,0,0,0,0,1,0,0,28,f,India,NO
+1,1,0,0,1,0,0,1,1,1,25,f,India,NO
+1,0,1,0,1,0,1,1,1,1,22,m,Nepal,YES
+0,1,1,0,0,0,1,0,0,1,36,m,United Kingdom,NO
+0,0,0,0,0,0,0,0,0,0,27,f,Russia,NO
+1,1,1,1,1,1,1,1,1,1,21,f,Germany,YES
+1,1,0,1,1,0,0,1,0,0,18,m,United States,NO
+1,0,0,0,1,1,1,1,1,1,49,m,Mexico,YES
+1,1,1,0,0,0,0,1,0,0,18,m,Indonesia,NO
+1,0,1,1,1,0,1,1,1,0,29,m,United States,YES
+0,0,0,0,1,0,0,1,0,0,31,f,New Zealand,NO
+1,0,0,0,0,0,0,0,0,0,37,f,New Zealand,NO
+1,0,1,1,1,0,0,1,0,1,17,m,New Zealand,NO
+1,0,1,1,0,0,1,1,1,1,17,m,New Zealand,YES
+1,1,1,1,0,0,0,0,0,0,38,f,Jordan,NO
+1,0,1,0,0,1,0,1,0,1,18,m,Angola,NO
+1,0,1,1,1,0,0,0,0,0,31,f,United Arab Emirates,NO
+0,1,1,1,0,0,0,0,0,0,33,m,United Arab Emirates,NO
+1,1,0,0,0,0,0,0,0,0,32,f,Jordan,NO
+1,0,0,0,0,0,1,0,0,1,30,m,Jordan,NO
+0,0,0,0,0,0,0,0,0,1,33,f,United States,NO
+1,1,1,1,1,1,1,1,1,1,30,f,Canada,YES
+1,1,1,1,1,0,1,1,1,1,30,m,United States,YES
+1,0,0,1,1,0,1,0,0,1,38,f,United Kingdom,NO
+1,0,0,0,1,0,1,0,1,1,22,m,India,NO
+1,1,0,0,1,0,1,0,1,0,36,m,United States,NO
+0,0,1,1,0,0,1,0,0,0,43,m,Azerbaijan,NO
+1,1,1,1,1,1,0,0,1,1,44,m,Pakistan,YES
+1,1,1,0,1,1,0,1,1,1,20,f,France,YES
+1,1,1,1,1,1,0,1,1,1,40,f,Australia,YES
+1,0,0,1,1,1,0,0,1,0,25,m,Italy,NO
+1,0,0,0,0,0,1,1,0,1,28,m,Australia,NO
+0,0,0,0,0,0,1,1,0,1,17,m,Canada,NO
+1,1,1,1,1,1,1,0,1,1,34,m,United States,YES
+0,0,0,0,0,0,0,1,0,0,56,m,Iraq,NO
+0,0,1,0,0,0,1,1,0,0,50,f,New Zealand,NO
+1,0,0,0,0,0,1,1,0,1,38,m,United States,NO
+1,1,1,1,1,1,1,1,1,1,47,m,United States,YES
+1,1,1,1,1,0,1,1,1,1,30,m,United States,YES
+1,1,1,1,1,0,0,1,0,1,21,m,United States,YES
+1,1,1,1,1,0,1,1,0,1,21,m,Ireland,YES
+1,1,1,0,1,0,1,1,1,1,31,m,Mexico,YES
+1,1,0,0,1,1,0,1,0,1,27,f,Czech Republic,NO
+1,1,1,1,0,0,0,0,1,0,24,f,United States,NO
+1,1,0,0,0,0,1,0,0,1,35,m,United Kingdom,NO
+1,0,0,0,0,0,1,0,0,1,18,m,Ethiopia,NO
+1,1,1,1,1,0,0,1,1,1,43,f,United States,YES
+1,1,1,1,1,1,1,1,1,1,44,m,Afghanistan,YES
+1,1,1,1,1,1,1,1,1,1,40,m,United Kingdom,YES
+1,1,0,1,1,1,1,1,1,1,49,f,United States,YES
+1,1,0,0,0,0,0,1,0,0,24,m,United States,NO
+1,1,0,0,0,0,0,1,1,0,30,f,United States,NO
+1,0,1,0,0,0,0,1,0,1,53,m,United States,NO
+1,0,1,1,1,0,0,1,1,1,38,m,Belgium,YES
+1,0,0,0,1,0,1,1,0,1,28,m,United States,NO
+1,1,1,0,1,1,1,1,1,1,28,m,United States,YES
+1,0,1,1,1,1,1,0,1,1,26,m,Canada,YES
+1,0,0,0,1,1,1,1,1,1,39,f,Canada,YES
+0,0,0,0,1,0,0,0,0,0,31,f,India,NO
+1,0,0,1,0,0,1,1,0,0,24,m,United States,NO
+1,1,1,0,1,1,1,1,0,1,28,m,United States,YES
+1,0,0,1,0,0,0,1,0,1,31,f,United Kingdom,NO
+1,1,1,1,1,0,0,1,0,1,27,m,United States,YES
+1,0,1,1,0,0,1,1,0,0,28,m,Brazil,NO
+1,1,1,1,1,1,0,1,1,1,31,m,Australia,YES
+1,1,1,1,1,0,0,0,0,1,46,f,Philippines,NO
+1,1,1,1,1,1,1,1,1,1,27,f,Australia,YES
+0,1,0,1,1,0,1,1,1,1,25,f,Russia,YES
+1,0,0,0,0,0,0,1,0,1,34,m,Mexico,NO
+1,0,1,1,1,0,1,1,0,1,24,f,Russia,YES
+1,0,0,1,1,0,1,0,1,1,35,m,Pakistan,NO
+1,0,1,1,1,0,1,1,1,1,26,f,Cyprus,YES
