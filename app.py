@@ -19,9 +19,9 @@ def predict():
     a9=request.form.get('a9')
     a10=request.form.get('a10')
     input_q=np.array([[a1,a2,a3,a4,a5,a6,a7,a8,a9,a10]]).astype(int)
-    prob=np.sum(input_q)/10
+  
     result=model.predict(input_q)[0]
-    return jsonify({'ASD':str(result),"Probability": str(prob)})
+    return jsonify({'ASD':str(result)})
     # result={'a1':a1,'a2':a2,'a3':a3,'a4':a4,'a5':a5,'a6':a6,'a7':a7,'a8':a8,'a9':a9,'a10':a10}
     #return jsonify(result)#it will get in json format
 if __name__ == '__main__':
